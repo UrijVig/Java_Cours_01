@@ -7,6 +7,26 @@ package Seminar_01;
 
 public class Task06 {
     public static void main(String[] args) {
-        
+        double a = 3; double b = 2;
+
+        double result = Math.pow(a, b);
+        System.out.println(result);
+        result = MathPow(a, b);
+        System.out.println(result);
+    }
+
+    static double MathPow(double a, double b){
+        double result = 1;
+        if (b > 0){            
+            for (int i = 0; i < b; i++) {
+                result *= a;
+            }
+            return result;        
+        } else if (b < 0){
+            for (int i = 0; i < -b; i++) {
+                result /= a;
+            }
+            return result;
+        } else return result;
     }
 }
