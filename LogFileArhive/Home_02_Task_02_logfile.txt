@@ -1,0 +1,678 @@
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 StartLoggerFile
+INFO: Лог файл успешно создан! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -8 и 6 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -8 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 6 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 12 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 8 и 12 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 8 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 12 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 12 и 13 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 12 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 13 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 13 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 14 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 14 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 20 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -8 и -3 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 6 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 6 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 8 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 12 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 12 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 12 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 13 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 13 
+июл. 06, 2023 1:01:24 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 13 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 19 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 6 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 8 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 12 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 12 
+июл. 06, 2023 1:01:25 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 18 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 6 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 8 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 12 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 12 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 17 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 6 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 6 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 8 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:26 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 8 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 8 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 8 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 16 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 5 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 6 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 15 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 5 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 14 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами 3 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 5 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 5 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 13 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и -3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: 3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 12 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и -3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -3 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -2 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -2 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и 3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и 3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 11 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -6 и -4 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -4 и -3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -3 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -3 и -2 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -2 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -2 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -2 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -2 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 10 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:27 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -3 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -3 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -3 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -3 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 9 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -3 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -3 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -3 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 8 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -4 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 7 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -6 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -6 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -4 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -4 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 6 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -11 и -8 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -8 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -6 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -6 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -6 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 5 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -11 и -8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -8 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -8 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -8 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 4 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -13 и -11 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -13 и -11 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -11 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -11 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 3 поставлен на своё место согласно размеру! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Замена местами -15 и -13 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: -15 и -13 не нуждаются в перестановке! 
+июл. 06, 2023 1:01:28 AM HomeWork.home_02.task02 Sort
+INFO: Элемент 2 поставлен на своё место согласно размеру! 

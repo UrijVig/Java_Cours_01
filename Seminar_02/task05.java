@@ -19,7 +19,7 @@ public class task05 {
     static Logger logger = Logger.getLogger(task05.class.getName());
     public static void main(String[] args) {
         try {
-            FileHandler fh = new FileHandler("log.txt");
+            FileHandler fh = new FileHandler("LogFileArhive\\log.txt");
             logger.addHandler(fh);
             SimpleFormatter sFormat = new SimpleFormatter();
             fh.setFormatter(sFormat);
@@ -35,13 +35,13 @@ public class task05 {
     }
 
     static String[] GetList(String fileName){
-        File file = new File(".");
+        File file = new File(fileName);
         String[] strPath = file.list();
         return strPath;
     }
 
     static void WriteFile( String[] data){
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("Directori.txt"))){
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("LogFileArhive\\Directori.txt"))){
             for (String string : data) {
                 writer.write(string + "\n");
             }
