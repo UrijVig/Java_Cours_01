@@ -3,7 +3,7 @@ package HomeWork.home_02;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-import Mymethod.FindFilePath;
+import Mymethod.FindFilePath; // ссылка на код поиска пути https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
 
 // Дана json-строка (можно сохранить в файл и читать из файла)
 // [{"фамилия":"Иванов","оценка":"5","предмет":"Математика"},{"фамилия":"Петрова","оценка":"4","предмет":"Информатика"},{"фамилия":"Краснов","оценка":"5","предмет":"Физика"}]
@@ -14,7 +14,7 @@ import Mymethod.FindFilePath;
 // Студент Краснов получил 5 по предмету Физика.
 public class task03 {
     public static void main(String[] args) throws Exception {
-        String path = FindFilePath.getFindeFilePath(".", "data_of_task03.txt");
+        String path = FindFilePath.getFindeFilePath(".", "data_of_task03.txt"); // ссылка на код поиска пути https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
         System.out.println(path);
         String[] dataOfFile = FileToStringArray(path);
         

@@ -7,14 +7,14 @@ package HomeWork.home_02;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import Mymethod.FindFilePath; // Класс написаный для поиска абсолютного пути к файлу
+import Mymethod.FindFilePath; // Класс написаный для поиска абсолютного пути к файлу // ссылка на код поиска пути https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
 
 
 public class task01 {
 
     public static void main(String[] args) throws Exception {
 
-        String path = FindFilePath.getFindeFilePath(".", "data.txt"); // получение абсолютного пути к искомому файлу с помощью собственного класса FindFilePath 
+        String path = FindFilePath.getFindeFilePath(".", "data.txt"); // получение абсолютного пути к искомому файлу с помощью собственного класса FindFilePath  // ссылка на код поиска пути https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
         System.out.println(path);
 
         String[] dataArray = FileToStringArray(path);
