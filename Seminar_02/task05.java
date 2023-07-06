@@ -17,6 +17,7 @@ import java.util.logging.SimpleFormatter;
 // возникновения исключения, оно должно записаться в лог-файл.
 public class task05 {
     static Logger logger = Logger.getLogger(task05.class.getName());
+
     public static void main(String[] args) {
         try {
             FileHandler fh = new FileHandler("LogFileArhive\\log.txt");
@@ -26,22 +27,22 @@ public class task05 {
             logger.log(Level.INFO, "Успешное обновление файла логирования! \n");
         } catch (Exception e) {
             System.out.println("Ошибка создания файла! " + e.getMessage());
-             logger.log(Level.WARNING, e.getMessage());
+            logger.log(Level.WARNING, e.getMessage());
         }
-        
+
         String fileName = ".";
         String[] allFiles = GetList(fileName);
-        WriteFile( allFiles);
+        WriteFile(allFiles);
     }
 
-    static String[] GetList(String fileName){
+    static String[] GetList(String fileName) {
         File file = new File(fileName);
         String[] strPath = file.list();
         return strPath;
     }
 
-    static void WriteFile( String[] data){
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("LogFileArhive\\Directori.txt"))){
+    static void WriteFile(String[] data) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("LogFileArhive\\Directori.txt"))) {
             for (String string : data) {
                 writer.write(string + "\n");
             }

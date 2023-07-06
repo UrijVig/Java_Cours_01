@@ -1,5 +1,6 @@
 package Seminar_01;
 // Записать в файл следующие данные:
+
 // Name Surname Age
 // Kate Smith 20
 // Paul Green 25
@@ -17,6 +18,5 @@ public class Task09 {
         fw.flush();
         fw.close();
     }
-
 
 }

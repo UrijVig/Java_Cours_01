@@ -18,17 +18,17 @@ public class task06 {
         WriteFile(allFiles);
     }
 
-    static String[] GetList(String fileName){
+    static String[] GetList(String fileName) {
         File file = new File(".");
         String[] strPath = file.list();
         return strPath;
     }
 
-    static void WriteFile( String[] data){
-        String str = "Расширение файла";
+    static void WriteFile(String[] data) {
+        String str = "Расширение файла ";
         int idx;
         String result;
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("extension.txt"))){
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("extension.txt"))) {
             for (String string : data) {
                 try {
                     idx = string.lastIndexOf('.');
@@ -36,7 +36,7 @@ public class task06 {
                     writer.write(result + '\n');
                 } catch (Exception e) {
                     writer.write(String.format("У папки %s нет расширения", string) + "\n");
-                }                
+                }
             }
         } catch (IOException e) {
             System.out.println(e.getMessage());

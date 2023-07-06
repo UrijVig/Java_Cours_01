@@ -10,6 +10,7 @@ import java.util.logging.SimpleFormatter;
 // Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 public class task02 {
     static Logger logger = Logger.getLogger(task02.class.getName());
+
     public static void main(String[] args) {
         StartLoggerFile("LogFileArhive\\Home_02_Task_02_logfile.txt");
         int[] myArray = RandomArray(20, -15, 15);
@@ -23,7 +24,7 @@ public class task02 {
         }
     }
 
-    static int[] RandomArray(int len, int min, int max){
+    static int[] RandomArray(int len, int min, int max) {
         Random random = new Random();
         int[] arr = new int[len];
         for (int i = 0; i < arr.length; i++) {
@@ -32,7 +33,7 @@ public class task02 {
         return arr;
     }
 
-    static void StartLoggerFile(String path){
+    static void StartLoggerFile(String path) {
         try {
             FileHandler fh = new FileHandler(path);
             SimpleFormatter sFormater = new SimpleFormatter();
@@ -45,19 +46,20 @@ public class task02 {
         }
     }
 
-    static void Sort(int [] arr){
+    static void Sort(int[] arr) {
         int temp;
         for (int i = 0; i + 1 < arr.length; i++) {
             for (int j = 0; j + 1 < arr.length - i; j++) {
-                if (arr[j] > arr[j + 1]){
+                if (arr[j] > arr[j + 1]) {
                     temp = arr[j];
-                    arr[j] = arr[j+ 1];
+                    arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                     logger.log(Level.INFO, String.format("Замена местами %d и %d ", arr[j], arr[j + 1]));
                 }
                 logger.log(Level.INFO, String.format("%d и %d не нуждаются в перестановке! ", arr[j], arr[j + 1]));
             }
-            logger.log(Level.INFO, String.format("Элемент %d поставлен на своё место согласно размеру! ", arr.length - i));
+            logger.log(Level.INFO,
+                    String.format("Элемент %d поставлен на своё место согласно размеру! ", arr.length - i));
         }
         return;
     }

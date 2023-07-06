@@ -7,12 +7,12 @@ package Seminar_01;
 
 public class Task08 {
     public static void main(String[] args) {
-        int[] myArray = {1,7,8,2,5,1};
-        
+        int[] myArray = { 1, 7, 8, 2, 5, 1 };
+
         System.out.println(Index(myArray));
     }
 
-    static int Index(int[] arr){
+    static int Index(int[] arr) {
         int sumJ;
         int sumK;
         for (int i = 0; i < arr.length; i++) {
@@ -24,8 +24,9 @@ public class Task08 {
             for (int k = i + 1; k < arr.length; k++) {
                 sumK += arr[k];
             }
-            if (sumJ == sumK) return i;
+            if (sumJ == sumK)
+                return i;
         }
-        return -1;        
+        return -1;
     }
 }

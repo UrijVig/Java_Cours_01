@@ -14,10 +14,11 @@ import Mymethod.FindFilePath; // ссылка на код поиска пути 
 // Студент Краснов получил 5 по предмету Физика.
 public class task03 {
     public static void main(String[] args) throws Exception {
-        String path = FindFilePath.getFindeFilePath(".", "data_of_task03.txt"); // ссылка на код поиска пути https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
+        String path = FindFilePath.getFindeFilePath(".", "data_of_task03.txt"); // ссылка на код поиска пути
+                                                                                // https://github.com/UrijVig/Java_Cours_01/blob/main/Mymethod/FindFilePath.java
         System.out.println(path);
         String[] dataOfFile = FileToStringArray(path);
-        
+
         for (String string : dataOfFile) {
             System.out.println(SelectStudent(string));
         }

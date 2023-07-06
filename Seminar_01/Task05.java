@@ -1,5 +1,6 @@
 package Seminar_01;
 // Во фразе "Добро пожаловать на курс по Java" переставить слова
+
 // в обратном порядке.
 
 public class Task05 {
@@ -9,7 +10,7 @@ public class Task05 {
         System.out.println(data);
     }
 
-    static String Revers(String str){
+    static String Revers(String str) {
         String[] strArray = str.split(" ");
         String temp;
         for (int i = 0; i < strArray.length / 2; i++) {

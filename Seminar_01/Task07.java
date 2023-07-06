@@ -1,5 +1,6 @@
 package Seminar_01;
 // На вход некоторому исполнителю подаётся два числа (a, b). У исполнителя есть
+
 // две команды
 // - команда 1 (к1): увеличить в с раза, а умножается на c
 // - команда 2 (к2): увеличить на d ( +2 ), к a прибавляется d
@@ -12,39 +13,44 @@ package Seminar_01;
 
 public class Task07 {
     public static void main(String[] args) {
-        int a = -15; int b = -15; int c = -3; int d = -6;
-        String str = Worker(a,b,c,d);
+        int a = -15;
+        int b = -15;
+        int c = -3;
+        int d = -6;
+        String str = Worker(a, b, c, d);
         System.out.println(str);
     }
-    static String Worker(int a, int b, int c, int d){
+
+    static String Worker(int a, int b, int c, int d) {
         String result = "";
-        if (a == b) return "Числа итак равны!";
+        if (a == b)
+            return "Числа итак равны!";
         while (true) {
             if (a < b) {
-                if (a * c > b || a * c < a && a + d > b || a + d < a){
+                if (a * c > b || a * c < a && a + d > b || a + d < a) {
                     result = "\"\"";
                     return result;
-                } else if ((b - a * c > b - a + d) || a * c > b){
+                } else if ((b - a * c > b - a + d) || a * c > b) {
                     a += d;
                     result += "k1, ";
-                } else if ((b - a * c < b - a + d) || a + d > b){
+                } else if ((b - a * c < b - a + d) || a + d > b) {
                     a *= c;
                     result += "k2, ";
                 }
             } else if (a > b) {
-                if (a * c < b || a * c > a && a + d < b  || a + d > a){
+                if (a * c < b || a * c > a && a + d < b || a + d > a) {
                     result = "\"\"";
                     return result;
-                } else if ((b + a * c > b + a + d) || a * c < b ){
+                } else if ((b + a * c > b + a + d) || a * c < b) {
                     a += d;
                     result += "k1, ";
-                } else if ((b - a * c < b - a + d) || a + d < b ){
+                } else if ((b - a * c < b - a + d) || a + d < b) {
                     a *= c;
                     result += "k2, ";
                 }
-            } else return result;
-        }        
+            } else
+                return result;
+        }
     }
 
-    
 }

@@ -1,4 +1,5 @@
 package Seminar_01;
+
 import java.util.Calendar;
 import java.util.Scanner;
 // В консоли запросить имя пользователя. В зависимости от
@@ -16,18 +17,15 @@ public class Task01 {
         System.out.println("Введите имя: ");
         String name = iScanner.nextLine();
         String hello;
-        if (time >= 5 && time < 12){
-            hello = "Доброе утро";            
+        if (time >= 5 && time < 12) {
+            hello = "Доброе утро";
+        } else if (time >= 12 && time < 18) {
+            hello = "Добрый день";
+        } else if (time >= 18 && time < 23) {
+            hello = "Добрый вечер";
+        } else {
+            hello = "Доброй ночи";
         }
-        else if (time >=12 && time < 18){
-            hello = "Добрый день";            
-        }
-        else if (time >= 18 && time < 23){
-            hello = "Добрый вечер";            
-        }
-        else{
-            hello = "Доброй ночи";            
-        }        
         System.out.printf("%s, %s !\n", hello, name);
         iScanner.close();
     }

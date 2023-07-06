@@ -1,4 +1,5 @@
 package HomeWork.home_01;
+
 // Вывести все простые числа от 1 до 1000
 public class task02 {
     public static void main(String[] args) {
@@ -8,24 +9,26 @@ public class task02 {
         }
     }
 
-    static int[] SimpleNumber(){
+    static int[] SimpleNumber() {
         String str = "";
         boolean isSimple = true;
         for (int i = 2; i < 1000; i++) {
             isSimple = true;
             for (int j = 2; j < i; j++) {
-                if (i % j == 0){
+                if (i % j == 0) {
                     isSimple = false;
                     break;
                 }
             }
-            if (isSimple) str += Integer.toString(i) + " ";
-        }        
+            if (isSimple)
+                str += Integer.toString(i) + " ";
+        }
         return StringToInt(str);
     }
-    static int[] StringToInt(String str){
+
+    static int[] StringToInt(String str) {
         String[] result = str.split(" ");
-        int[] res = new int[result.length]; 
+        int[] res = new int[result.length];
         for (int i = 0; i < res.length; i++) {
             res[i] = Integer.parseInt(result[i]);
         }
