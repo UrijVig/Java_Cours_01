@@ -5,7 +5,7 @@ package HomeWork.home_01;
 // Требуется восстановить выражение до верного равенства. Предложить хотя бы одно решение или сообщить, что его нет.
 public class task04 {
     public static void main(String[] args) {
-        String input = "2? + ?5 = 69";
+        String input = "?4 + ?5 = 69";
         System.out.println(ResultCalc(input));
     }
 

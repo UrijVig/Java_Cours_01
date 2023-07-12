@@ -27,8 +27,8 @@ public class task03 {
             number2 = InputNumber("Введите второе число:", iScanner);
             action = Action(iScanner);
             result = Calk(number1, number2, action);
-            logger.log(Level.INFO,
-                    String.format("Результат операции: %.2f %c %.2f = %.2f \n", number1, action, number2, result));
+            logger.log(Level.INFO, String.format("Результат операции: %.2f %c %.2f = %.2f \n", number1, action, number2, result));
+            System.out.print("\033[H\033[J");
             System.out.printf("\t%.2f %c %.2f = %.2f \n", number1, action, number2, result);
             System.out.println("Хотите продолжить работу? ");
             System.out.println("\t \"N\" - закончить работу.");
@@ -63,11 +63,11 @@ public class task03 {
             if (IsNumber(input)) {
                 double number = Double.parseDouble(input);
                 logger.log(Level.INFO, String.format("Было введено число %.2f", number));
-                System.out.print("\033[H\033[J");
+                // System.out.print("\033[H\033[J");
                 return number;
             } else {
                 logger.log(Level.WARNING, String.format("Были введены некорректные данные %s", input));
-                System.out.print("\033[H\033[J");
+                // System.out.print("\033[H\033[J");
                 System.out.println("Введены некорректные данные, пожалуйста повторите ввод");
             }
         }
@@ -93,11 +93,11 @@ public class task03 {
             char ch = iScanner.nextLine().charAt(0);
             if (ch == '+' || ch == '-' || ch == '*' || ch == '/') {
                 logger.log(Level.INFO, String.format("Выбрана операция %c", ch));
-                System.out.print("\033[H\033[J");
+                // System.out.print("\033[H\033[J");
                 return ch;
             } else {
                 logger.log(Level.WARNING, String.format("Были введены некорректные данные %c", ch));
-                System.out.print("\033[H\033[J");
+                // System.out.print("\033[H\033[J");
                 System.out.println("Введена неизвестная операция, пожалуйста, повторите выбор!");
             }
         }

@@ -40,7 +40,7 @@ public class task03 {
         return min;
     }
 
-    static int FindeMidle(ArrayList<Integer> data) {
+    static double FindeMidle(ArrayList<Integer> data) {
         int midle = 0;
         for (int i = 1; i < data.size(); i++) {
             midle += data.get(i);

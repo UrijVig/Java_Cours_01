@@ -1,43 +1,15 @@
-июл. 06, 2023 1:54:39 AM HomeWork.home_01.task03 StartLoggerFile
+июл. 12, 2023 8:30:22 AM HomeWork.home_01.task03 StartLoggerFile
 INFO: Лог файл успешно создан! 
-июл. 06, 2023 1:54:40 AM HomeWork.home_01.task03 main
+июл. 12, 2023 8:30:22 AM HomeWork.home_01.task03 main
 INFO: Начало работы в программе! 
-июл. 06, 2023 1:55:09 AM HomeWork.home_01.task03 InputNumber
+июл. 12, 2023 8:30:25 AM HomeWork.home_01.task03 InputNumber
 INFO: Было введено число 145,00
-июл. 06, 2023 1:55:11 AM HomeWork.home_01.task03 InputNumber
-INFO: Было введено число 589,00
-июл. 06, 2023 1:55:12 AM HomeWork.home_01.task03 Action
-INFO: Выбрана операция +
-июл. 06, 2023 1:55:12 AM HomeWork.home_01.task03 main
-INFO: Результат операции: 145,00 + 589,00 = 734,00 
-
-июл. 06, 2023 1:55:14 AM HomeWork.home_01.task03 main
-INFO: Повтор операции! 
-июл. 06, 2023 1:55:16 AM HomeWork.home_01.task03 InputNumber
-INFO: Было введено число 256,00
-июл. 06, 2023 1:55:17 AM HomeWork.home_01.task03 InputNumber
-INFO: Было введено число 4587,00
-июл. 06, 2023 1:55:20 AM HomeWork.home_01.task03 Action
-WARNING: Были введены некорректные данные 2
-июл. 06, 2023 1:55:22 AM HomeWork.home_01.task03 Action
-WARNING: Были введены некорректные данные 2
-июл. 06, 2023 1:55:24 AM HomeWork.home_01.task03 Action
-INFO: Выбрана операция +
-июл. 06, 2023 1:55:24 AM HomeWork.home_01.task03 main
-INFO: Результат операции: 256,00 + 4587,00 = 4843,00 
-
-июл. 06, 2023 1:55:26 AM HomeWork.home_01.task03 main
-INFO: Повтор операции! 
-июл. 06, 2023 1:55:28 AM HomeWork.home_01.task03 InputNumber
-WARNING: Были введены некорректные данные lkjighf
-июл. 06, 2023 1:55:30 AM HomeWork.home_01.task03 InputNumber
-INFO: Было введено число 458,00
-июл. 06, 2023 1:55:32 AM HomeWork.home_01.task03 InputNumber
-INFO: Было введено число 41,00
-июл. 06, 2023 1:55:34 AM HomeWork.home_01.task03 Action
+июл. 12, 2023 8:30:28 AM HomeWork.home_01.task03 InputNumber
+INFO: Было введено число 32,00
+июл. 12, 2023 8:30:30 AM HomeWork.home_01.task03 Action
 INFO: Выбрана операция /
-июл. 06, 2023 1:55:34 AM HomeWork.home_01.task03 main
-INFO: Результат операции: 458,00 / 41,00 = 11,17 
+июл. 12, 2023 8:30:30 AM HomeWork.home_01.task03 main
+INFO: Результат операции: 145,00 / 32,00 = 4,53 
 
-июл. 06, 2023 1:55:40 AM HomeWork.home_01.task03 main
+июл. 12, 2023 8:30:49 AM HomeWork.home_01.task03 main
 INFO: Завершение работы в программе! 
