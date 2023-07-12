@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class task03 {
     public static void main(String[] args) {
-        ArrayList<String> list1 = new ArrayList();
+        ArrayList<String> list1 = new ArrayList<>();
         String[] str = { "2", "235", "asgasg", "2345", "asdg", "234", "sdfgs", "sdfg", "sfg", "2", "asg", "25", "as",
                 "569", "sdf" };
         for (int i = 0; i < str.length; i++) {
