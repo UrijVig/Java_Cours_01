@@ -17,7 +17,7 @@ public class task03 {
         String msg2 = "Введите второе число: ";
         String msg3 = "\nДля отмены последней операции введите \"back\"";
         String temp;
-        StartLoggerFile("LogFileArhive\\Home_04_Task_03_logfile.txt");
+        startLoggerFile("LogFileArhive\\Home_04_Task_03_logfile.txt");
         logger.log(Level.INFO, "Начало работы в программе! ");
         Scanner iScanner = new Scanner(System.in);
         double number1, number2, result;
@@ -26,13 +26,13 @@ public class task03 {
         Stack<String> inData = new Stack<>();
         while (flag) {
             System.out.print("\033[H\033[J");
-            while (flag) {
+            while (inData.size() != 3) {
                 switch (inData.size()) {
                     case 0:
-                        inData.add(InputNumber(msg1, iScanner));
+                        inData.add(inputNumber(msg1, iScanner));
                         break;
                     case 1:
-                        temp = InputNumber(msg2 + msg3, iScanner);
+                        temp = inputNumber(msg2 + msg3, iScanner);
                         if (temp.equals("back")) {
                             inData.pop();
                         } else {
@@ -40,21 +40,22 @@ public class task03 {
                         }
                         break;
                     case 2:
-                        temp = Action(msg3, iScanner);
+                        temp = action(msg3, iScanner);
                         if (temp.equals("back")) {
                             inData.pop();
                         } else {
                             inData.add(temp);
                         }
                         break;
-                    default:
-                        if (inData.size() == 3) {
-                            flag = false;
-                        }
-                        break;
-                }                
+                }
+                if (inData.size() == 3) {
+                    System.out.println(msg3);
+                    temp = iScanner.nextLine();
+                    if (temp.equals("back")) {
+                        inData.pop();
+                    }
+                }
             }
-            flag = true;
             action = inData.pop().charAt(0);
             number2 = Integer.parseInt(inData.pop());
             number1 = Integer.parseInt(inData.pop());
@@ -75,12 +76,12 @@ public class task03 {
         logger.log(Level.INFO, "Завершение работы в программе! ");
     }
 
-    private static String InputNumber(String str, Scanner iScanner) {
+    private static String inputNumber(String str, Scanner iScanner) {
         System.out.println(str);
-        String input;        
+        String input;
         while (true) {
             input = iScanner.nextLine();
-            if (IsNumber(input)) {                
+            if (isNumber(input)) {
                 logger.log(Level.INFO, String.format("Было введено число %s", input));
                 // System.out.print("\033[H\033[J");
                 return input;
@@ -95,7 +96,7 @@ public class task03 {
         }
     }
 
-    private static boolean IsNumber(String str) {
+    private static boolean isNumber(String str) {
         try {
             Double.parseDouble(str);
             return true;
@@ -104,7 +105,7 @@ public class task03 {
         }
     }
 
-    private static String Action(String str, Scanner iScanner) {
+    private static String action(String str, Scanner iScanner) {
         System.out.println(str);
         while (true) {
             System.out.println("Введите действие: ");
@@ -128,7 +129,7 @@ public class task03 {
         }
     }
 
-    static void StartLoggerFile(String path) {
+    static void startLoggerFile(String path) {
         try {
             FileHandler fh = new FileHandler(path);
             SimpleFormatter sFormater = new SimpleFormatter();
