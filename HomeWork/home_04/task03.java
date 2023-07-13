@@ -13,79 +13,89 @@ public class task03 {
     static Logger logger = Logger.getLogger(task03.class.getName());
 
     public static void main(String[] args) {
-        startLoggerFile("LogFileArhive\\Home_04_Task_03_logfile.txt");
+        String msg1 = "Введите первое число: ";
+        String msg2 = "Введите второе число: ";
+        String msg3 = "\nДля отмены последней операции введите \"back\"";
+        String temp;
+        StartLoggerFile("LogFileArhive\\Home_04_Task_03_logfile.txt");
         logger.log(Level.INFO, "Начало работы в программе! ");
         Scanner iScanner = new Scanner(System.in);
         double number1, number2, result;
-        String temp;
         char action;
         boolean flag = true;
-        Stack<String> stack = new Stack<>();
+        Stack<String> inData = new Stack<>();
         while (flag) {
             System.out.print("\033[H\033[J");
-            do {
-                temp = inputData("Введите первое число:", iScanner);
-            } while (!isNumber(temp));
-            stack.push(temp);
-            do {
-                temp = inputData("Введите второе число: \n для отмены предыдущей операции введите \"back\"", iScanner);                
-                if (temp.equals("back")) {
-                    do {
-                        temp = inputData("Введите первое число:", iScanner);
-                    } while (!isNumber(temp));
-                    stack.push(temp);
-                    continue;
-                }
-            } while (!isNumber(temp));
-            stack.push(temp);
-            System.out.println("Введите действие: ");
-            System.out.println("\t  сложение: \"+\"");
-            System.out.println("\t вычетание: \"-\"");
-            System.out.println("\t умножение: \"*\"");
-            System.out.println("\t   деление: \"/\"");
-            do {
-                temp = inputData("Введите действие: \n Для отмены предыдущей операции введите \"back\"", iScanner);
-                System.out.println("Для отмены предыдущей операции введите \"back\"");
-                if (temp.equals("back")) {
-                    do {
-                        temp = inputData("Введите второе число: \n для отмены предыдущей операции введите \"back\"", iScanner);                        
+            while (flag) {
+                switch (inData.size()) {
+                    case 0:
+                        inData.add(InputNumber(msg1, iScanner));
+                        break;
+                    case 1:
+                        temp = InputNumber(msg2 + msg3, iScanner);
                         if (temp.equals("back")) {
-                            do {
-                                temp = inputData("Введите первое число:", iScanner);
-                            } while (!isNumber(temp));
-                            stack.push(temp);
-                            continue;
+                            inData.pop();
+                        } else {
+                            inData.add(temp);
                         }
-                    } while (!isNumber(temp));
-                    stack.push(temp);
-                    continue;
-                }
-            } while (!temp.equals("+") && !temp.equals("-") && !temp.equals("*") && !temp.equals("/"));
-            action = stack.pop().charAt(0);
-            number1 = Double.parseDouble(stack.pop());
-            number2 = Double.parseDouble(stack.pop());
-            result = calk(number1, number2, action);
+                        break;
+                    case 2:
+                        temp = Action(msg3, iScanner);
+                        if (temp.equals("back")) {
+                            inData.pop();
+                        } else {
+                            inData.add(temp);
+                        }
+                        break;
+                    default:
+                        if (inData.size() == 3) {
+                            flag = false;
+                        }
+                        break;
+                }                
+            }
+            flag = true;
+            action = inData.pop().charAt(0);
+            number2 = Integer.parseInt(inData.pop());
+            number1 = Integer.parseInt(inData.pop());
+            result = Calk(number1, number2, action);
             logger.log(Level.INFO,
                     String.format("Результат операции: %.2f %c %.2f = %.2f \n", number1, action, number2, result));
             System.out.print("\033[H\033[J");
             System.out.printf("\t%.2f %c %.2f = %.2f \n", number1, action, number2, result);
             System.out.println("Хотите продолжить работу? ");
-            System.out.println("\t \"N\" - закончить работу.");
-            action = iScanner.nextLine().charAt(0);
-            if (action == 'N')
+            System.out.println("\t\"Exit\" - закончить работу.");
+            temp = iScanner.nextLine();
+            if (temp.equals("Exit"))
                 flag = false;
             else
                 logger.log(Level.INFO, "Повтор операции! ");
         }
-
+        iScanner.close();
+        logger.log(Level.INFO, "Завершение работы в программе! ");
     }
 
-    private static String inputData(String str, Scanner iScanner) {
+    private static String InputNumber(String str, Scanner iScanner) {
         System.out.println(str);
-        return iScanner.nextLine();
+        String input;        
+        while (true) {
+            input = iScanner.nextLine();
+            if (IsNumber(input)) {                
+                logger.log(Level.INFO, String.format("Было введено число %s", input));
+                // System.out.print("\033[H\033[J");
+                return input;
+            } else if (input.equals("back")) {
+                logger.log(Level.INFO, "Отмена последней операции! ");
+                return input;
+            } else {
+                logger.log(Level.WARNING, String.format("Были введены некорректные данные %s", input));
+                // System.out.print("\033[H\033[J");
+                System.out.println("Введены некорректные данные, пожалуйста повторите ввод");
+            }
+        }
     }
 
-    private static boolean isNumber(String str) {
+    private static boolean IsNumber(String str) {
         try {
             Double.parseDouble(str);
             return true;
@@ -94,7 +104,44 @@ public class task03 {
         }
     }
 
-    private static double calk(double num1, double num2, char act) {
+    private static String Action(String str, Scanner iScanner) {
+        System.out.println(str);
+        while (true) {
+            System.out.println("Введите действие: ");
+            System.out.println("\t  сложение: \"+\"");
+            System.out.println("\t вычетание: \"-\"");
+            System.out.println("\t умножение: \"*\"");
+            System.out.println("\t   деление: \"/\"");
+            String ch = iScanner.nextLine();
+            if (ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/")) {
+                logger.log(Level.INFO, String.format("Выбрана операция %s", ch));
+                // System.out.print("\033[H\033[J");
+                return ch;
+            } else if (ch.equals("back")) {
+                logger.log(Level.INFO, "Отмена последней операции! ");
+                return ch;
+            } else {
+                logger.log(Level.WARNING, String.format("Были введены некорректные данные %s", ch));
+                // System.out.print("\033[H\033[J");
+                System.out.println("Введена неизвестная операция, пожалуйста, повторите выбор!");
+            }
+        }
+    }
+
+    static void StartLoggerFile(String path) {
+        try {
+            FileHandler fh = new FileHandler(path);
+            SimpleFormatter sFormater = new SimpleFormatter();
+            logger.addHandler(fh);
+            fh.setFormatter(sFormater);
+            logger.log(Level.INFO, "Лог файл успешно создан! ");
+        } catch (IOException e) {
+            System.out.println("Fail!" + e.getMessage());
+            logger.log(Level.WARNING, e.getMessage());
+        }
+    }
+
+    private static double Calk(double num1, double num2, char act) {
         switch (act) {
             case '+':
                 return num1 + num2;
@@ -106,19 +153,6 @@ public class task03 {
                 return num1 / num2;
             default:
                 return 0;
-        }
-    }
-
-    static void startLoggerFile(String path) {
-        try {
-            FileHandler fh = new FileHandler(path);
-            SimpleFormatter sFormater = new SimpleFormatter();
-            logger.addHandler(fh);
-            fh.setFormatter(sFormater);
-            logger.log(Level.INFO, "Лог файл успешно создан! ");
-        } catch (IOException e) {
-            System.out.println("Fail!" + e.getMessage());
-            logger.log(Level.WARNING, e.getMessage());
         }
     }
 }

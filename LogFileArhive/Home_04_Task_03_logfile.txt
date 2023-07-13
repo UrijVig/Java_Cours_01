@@ -1,0 +1,36 @@
+июл. 14, 2023 12:47:50 AM HomeWork.home_04.task03 StartLoggerFile
+INFO: Лог файл успешно создан! 
+июл. 14, 2023 12:47:50 AM HomeWork.home_04.task03 main
+INFO: Начало работы в программе! 
+июл. 14, 2023 12:47:52 AM HomeWork.home_04.task03 InputNumber
+WARNING: Были введены некорректные данные 
+июл. 14, 2023 12:47:54 AM HomeWork.home_04.task03 InputNumber
+WARNING: Были введены некорректные данные 
+июл. 14, 2023 12:47:56 AM HomeWork.home_04.task03 InputNumber
+INFO: Было введено число 145
+июл. 14, 2023 12:47:57 AM HomeWork.home_04.task03 InputNumber
+INFO: Было введено число 25
+июл. 14, 2023 12:47:59 AM HomeWork.home_04.task03 Action
+INFO: Выбрана операция +
+июл. 14, 2023 12:47:59 AM HomeWork.home_04.task03 main
+INFO: Результат операции: 145,00 + 25,00 = 170,00 
+
+июл. 14, 2023 12:48:00 AM HomeWork.home_04.task03 main
+INFO: Повтор операции! 
+июл. 14, 2023 12:48:04 AM HomeWork.home_04.task03 InputNumber
+INFO: Было введено число 254
+июл. 14, 2023 12:48:06 AM HomeWork.home_04.task03 InputNumber
+WARNING: Были введены некорректные данные 
+июл. 14, 2023 12:48:07 AM HomeWork.home_04.task03 InputNumber
+WARNING: Были введены некорректные данные 
+июл. 14, 2023 12:48:08 AM HomeWork.home_04.task03 InputNumber
+WARNING: Были введены некорректные данные 
+июл. 14, 2023 12:48:10 AM HomeWork.home_04.task03 InputNumber
+INFO: Было введено число 22
+июл. 14, 2023 12:48:13 AM HomeWork.home_04.task03 Action
+INFO: Выбрана операция *
+июл. 14, 2023 12:48:13 AM HomeWork.home_04.task03 main
+INFO: Результат операции: 254,00 * 22,00 = 5588,00 
+
+июл. 14, 2023 12:48:26 AM HomeWork.home_04.task03 main
+INFO: Завершение работы в программе! 
