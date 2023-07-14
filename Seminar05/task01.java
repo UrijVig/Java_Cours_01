@@ -1,4 +1,8 @@
 package Seminar05;
+
+import java.util.HashMap;
+import java.util.Map;
+
 // Даны 2 строки, написать метод, который вернет true, если эти строки являются изоморфными
 // и false, если нет. Строки изоморфны, если одну букву в первом слове можно заменить на
 // некоторую букву во втором слове, при этом
@@ -13,6 +17,26 @@ package Seminar05;
 // Output: true
 public class task01 {
     public static void main(String[] args) {
-        
+        String data1 = "paper";
+        String data2 = "title";
+        System.out.println(isIsomorf(data1, data2));
+    }
+
+    private static boolean isIsomorf(String str1, String str2) {
+        if (str1.length() != str2.length())
+            return false;
+        Map<Character, Character> data = new HashMap<>();
+        for (int i = 0; i < str2.length(); i++) {
+            char char1 = str1.charAt(i);
+            char char2 = str2.charAt(i);
+            if (!data.containsKey(char1)) {
+                data.put(char1, char2);
+            } else {
+                if (data.get(char1) != char2) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
